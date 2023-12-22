@@ -63,7 +63,7 @@ print("--------------------------------------------------------------")
 
 ## Output :
 ![out](<Screenshot 2023-12-21 191836.png>)
-![out1](<Screenshot 2023-12-21 191859.png>)
+![out2](<Screenshot 2023-12-22 054806.png>)
 ## Result : 
 Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
 
